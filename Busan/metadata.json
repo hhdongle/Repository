@@ -1,0 +1,8 @@
+{
+  "version": "20260831232153",
+  "createdAt": "2026-08-31 23:21:53",
+  "fileSize": 4395008,
+  "sha256": "7b17d72aedf0a2048c94d94a1a4c90c704164afde930ba2e2e1720d76916e025",
+  "downloadUrl": "https://raw.githubusercontent.com/hhdongle/Repository/main/Busan/busan_bus_cache.sqlite",
+  "changeSummary": "부산 버스 기준 DB 최신 스냅샷"
+}

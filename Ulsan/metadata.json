@@ -1,0 +1,8 @@
+{
+  "version": "20260907231550",
+  "createdAt": "2026-09-07T23:15:50+09:00",
+  "fileSize": 4419584,
+  "sha256": "1575f68c55dc422291b04676a2980951995cfe02c17e1df3185738a21c4e8b47",
+  "downloadUrl": "https://raw.githubusercontent.com/hhdongle/Repository/main/Ulsan/ulsan_bus_cache.sqlite",
+  "changeSummary": "울산 버스 기준 DB 초기 스냅샷"
+}

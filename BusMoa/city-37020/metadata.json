@@ -1,11 +1,13 @@
 {
   "city": 37020,
   "cityName": "\uACBD\uC8FC\uC2DC",
-  "version": "20260926140324",
-  "schemaVersion": 1,
-  "createdAt": "2026-09-26T14:03:24.4354429\u002B09:00",
-  "fileSize": 3100672,
-  "sha256": "839fd4815401491f68e5584b44717926b6550e688470084b23584cf25096aac7",
+  "version": "20261003190956",
+  "schemaVersion": 3,
+  "staticSource": "tago",
+  "identifierFormat": "tago-original",
+  "createdAt": "2026-10-03T19:09:56.3579351\u002B09:00",
+  "fileSize": 3084288,
+  "sha256": "2bf4fe8a3132cd416d9e19d169600f613852187c8c691c0fe3ef7c215828f913",
   "downloadUrl": "",
   "changeSummary": "\uC804\uCCB4 \uAE30\uC900 DB: \uB178\uC120 304\uAC1C, \uC815\uB958\uC18C 1,817\uAC1C, \uACBD\uC720 \uC815\uB958\uC18C 17,480\uAC1C"
 }

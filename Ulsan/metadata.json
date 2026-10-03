@@ -1,8 +1,9 @@
 {
-  "version": "20260907231550",
-  "createdAt": "2026-09-07T23:15:50+09:00",
-  "fileSize": 4419584,
-  "sha256": "1575f68c55dc422291b04676a2980951995cfe02c17e1df3185738a21c4e8b47",
+  "version": "20260929231840",
+  "schemaVersion": 1,
+  "createdAt": "2026-09-29T23:18:40.6384309\u002B09:00",
+  "fileSize": 4448256,
+  "sha256": "a63d6c0fb75e9d97597e23f2e5e71a4c06bce4ae7dab6d0e1ffe5d45697ca095",
   "downloadUrl": "https://raw.githubusercontent.com/hhdongle/Repository/main/Ulsan/ulsan_bus_cache.sqlite",
-  "changeSummary": "울산 버스 기준 DB 초기 스냅샷"
+  "changeSummary": "\uC804\uCCB4 \uAE30\uC900 DB: \uB178\uC120 522\uAC1C, \uC815\uB958\uC18C 3,627\uAC1C, \uACBD\uC720 \uC815\uB958\uC18C 23,983\uAC1C"
 }

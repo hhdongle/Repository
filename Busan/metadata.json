@@ -1,8 +1,10 @@
 {
-  "version": "20260831232153",
-  "createdAt": "2026-08-31 23:21:53",
-  "fileSize": 4395008,
-  "sha256": "7b17d72aedf0a2048c94d94a1a4c90c704164afde930ba2e2e1720d76916e025",
+  "dataSource": "legacy",
+  "version": "20260930230122",
+  "schemaVersion": 2,
+  "createdAt": "2026-09-30T23:01:22.9231597\u002B09:00",
+  "fileSize": 4481024,
+  "sha256": "e6911146cf6a8e527d8a8c239c38f53d9f67ebd563b53c9767ac808fc3cf373c",
   "downloadUrl": "https://raw.githubusercontent.com/hhdongle/Repository/main/Busan/busan_bus_cache.sqlite",
-  "changeSummary": "부산 버스 기준 DB 최신 스냅샷"
+  "changeSummary": "\uC804\uCCB4 \uAE30\uC900 DB: \uB178\uC120 290\uAC1C, \uC815\uB958\uC18C 8,799\uAC1C, \uACBD\uC720 \uC815\uB958\uC18C 22,423\uAC1C"
 }

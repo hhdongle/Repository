@@ -1,0 +1,10 @@
+{
+  "dataSource": "pohang-bis-web-v1",
+  "version": "20261001000207",
+  "schemaVersion": 3,
+  "createdAt": "2026-10-01T00:02:07.9190596\u002B09:00",
+  "fileSize": 1814528,
+  "sha256": "dc355bbc480e8f0ea0e85d9dfe1492ee4cb66052fc394834fdc151e6b70adc9f",
+  "downloadUrl": "https://raw.githubusercontent.com/hhdongle/Repository/main/Pohang/pohang_bus_cache.sqlite",
+  "changeSummary": "\uC804\uCCB4 \uAE30\uC900 DB: \uB178\uC120 195\uAC1C, \uC815\uB958\uC18C 1,932\uAC1C, \uACBD\uC720 \uC815\uB958\uC18C 9,861\uAC1C"
+}

@@ -1,0 +1,99 @@
+ BusMoa/city-21/city-21_bus_cache.sqlite       | Bin [31m0[m -> [32m4464640[m bytes
+ BusMoa/city-21/metadata.json                  |  11 [32m+++++++++++[m
+ BusMoa/city-22/city-22_bus_cache.sqlite       | Bin [31m0[m -> [32m3735552[m bytes
+ BusMoa/city-22/metadata.json                  |  11 [32m+++++++++++[m
+ BusMoa/city-24/city-24_bus_cache.sqlite       | Bin [31m0[m -> [32m4026368[m bytes
+ BusMoa/city-24/metadata.json                  |  11 [32m+++++++++++[m
+ BusMoa/city-25/city-25_bus_cache.sqlite       | Bin [31m0[m -> [32m1884160[m bytes
+ BusMoa/city-25/metadata.json                  |  11 [32m+++++++++++[m
+ BusMoa/city-31060/city-31060_bus_cache.sqlite | Bin [31m0[m -> [32m430080[m bytes
+ BusMoa/city-31060/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31080/city-31080_bus_cache.sqlite | Bin [31m0[m -> [32m585728[m bytes
+ BusMoa/city-31080/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31100/city-31100_bus_cache.sqlite | Bin [31m0[m -> [32m901120[m bytes
+ BusMoa/city-31100/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31110/city-31110_bus_cache.sqlite | Bin [31m0[m -> [32m98304[m bytes
+ BusMoa/city-31110/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31120/city-31120_bus_cache.sqlite | Bin [31m0[m -> [32m339968[m bytes
+ BusMoa/city-31120/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31130/city-31130_bus_cache.sqlite | Bin [31m0[m -> [32m1888256[m bytes
+ BusMoa/city-31130/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31160/city-31160_bus_cache.sqlite | Bin [31m0[m -> [32m188416[m bytes
+ BusMoa/city-31160/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31190/city-31190_bus_cache.sqlite | Bin [31m0[m -> [32m2433024[m bytes
+ BusMoa/city-31190/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31230/city-31230_bus_cache.sqlite | Bin [31m0[m -> [32m897024[m bytes
+ BusMoa/city-31230/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31250/city-31250_bus_cache.sqlite | Bin [31m0[m -> [32m2957312[m bytes
+ BusMoa/city-31250/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-31370/city-31370_bus_cache.sqlite | Bin [31m0[m -> [32m815104[m bytes
+ BusMoa/city-31370/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-33320/city-33320_bus_cache.sqlite | Bin [31m0[m -> [32m970752[m bytes
+ BusMoa/city-33320/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-33360/city-33360_bus_cache.sqlite | Bin [31m0[m -> [32m1200128[m bytes
+ BusMoa/city-33360/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-33380/city-33380_bus_cache.sqlite | Bin [31m0[m -> [32m872448[m bytes
+ BusMoa/city-33380/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-34020/city-34020_bus_cache.sqlite | Bin [31m0[m -> [32m1585152[m bytes
+ BusMoa/city-34020/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-34030/city-34030_bus_cache.sqlite | Bin [31m0[m -> [32m1429504[m bytes
+ BusMoa/city-34030/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-34060/city-34060_bus_cache.sqlite | Bin [31m0[m -> [32m1576960[m bytes
+ BusMoa/city-34060/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-34070/city-34070_bus_cache.sqlite | Bin [31m0[m -> [32m258048[m bytes
+ BusMoa/city-34070/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-34310/city-34310_bus_cache.sqlite | Bin [31m0[m -> [32m1474560[m bytes
+ BusMoa/city-34310/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-34390/city-34390_bus_cache.sqlite | Bin [31m0[m -> [32m3063808[m bytes
+ BusMoa/city-34390/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-35020/city-35020_bus_cache.sqlite | Bin [31m0[m -> [32m1331200[m bytes
+ BusMoa/city-35020/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-35050/city-35050_bus_cache.sqlite | Bin [31m0[m -> [32m2445312[m bytes
+ BusMoa/city-35050/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-35060/city-35060_bus_cache.sqlite | Bin [31m0[m -> [32m1724416[m bytes
+ BusMoa/city-35060/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-35330/city-35330_bus_cache.sqlite | Bin [31m0[m -> [32m495616[m bytes
+ BusMoa/city-35330/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-35370/city-35370_bus_cache.sqlite | Bin [31m0[m -> [32m1462272[m bytes
+ BusMoa/city-35370/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-36010/city-36010_bus_cache.sqlite | Bin [31m0[m -> [32m733184[m bytes
+ BusMoa/city-36010/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-36040/city-36040_bus_cache.sqlite | Bin [31m0[m -> [32m905216[m bytes
+ BusMoa/city-36040/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-36060/city-36060_bus_cache.sqlite | Bin [31m0[m -> [32m933888[m bytes
+ BusMoa/city-36060/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-36320/city-36320_bus_cache.sqlite | Bin [31m0[m -> [32m782336[m bytes
+ BusMoa/city-36320/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-36330/city-36330_bus_cache.sqlite | Bin [31m0[m -> [32m552960[m bytes
+ BusMoa/city-36330/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-36350/city-36350_bus_cache.sqlite | Bin [31m0[m -> [32m1630208[m bytes
+ BusMoa/city-36350/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-36420/city-36420_bus_cache.sqlite | Bin [31m0[m -> [32m1097728[m bytes
+ BusMoa/city-36420/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-37020/city-37020_bus_cache.sqlite | Bin [31m0[m -> [32m3100672[m bytes
+ BusMoa/city-37020/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-37030/city-37030_bus_cache.sqlite | Bin [31m0[m -> [32m2793472[m bytes
+ BusMoa/city-37030/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-37050/city-37050_bus_cache.sqlite | Bin [31m0[m -> [32m2252800[m bytes
+ BusMoa/city-37050/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-37090/city-37090_bus_cache.sqlite | Bin [31m0[m -> [32m2080768[m bytes
+ BusMoa/city-37090/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-37100/city-37100_bus_cache.sqlite | Bin [31m0[m -> [32m3993600[m bytes
+ BusMoa/city-37100/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-37370/city-37370_bus_cache.sqlite | Bin [31m0[m -> [32m675840[m bytes
+ BusMoa/city-37370/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-37410/city-37410_bus_cache.sqlite | Bin [31m0[m -> [32m585728[m bytes
+ BusMoa/city-37410/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-38070/city-38070_bus_cache.sqlite | Bin [31m0[m -> [32m1392640[m bytes
+ BusMoa/city-38070/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-38080/city-38080_bus_cache.sqlite | Bin [31m0[m -> [32m1077248[m bytes
+ BusMoa/city-38080/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-38090/city-38090_bus_cache.sqlite | Bin [31m0[m -> [32m1843200[m bytes
+ BusMoa/city-38090/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-38340/city-38340_bus_cache.sqlite | Bin [31m0[m -> [32m1269760[m bytes
+ BusMoa/city-38340/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-38350/city-38350_bus_cache.sqlite | Bin [31m0[m -> [32m618496[m bytes
+ BusMoa/city-38350/metadata.json               |  11 [32m+++++++++++[m
+ BusMoa/city-38390/city-38390_bus_cache.sqlite | Bin [31m0[m -> [32m872448[m bytes
+ BusMoa/city-38390/metadata.json               |  11 [32m+++++++++++[m
+ 98 files changed, 539 insertions(+)

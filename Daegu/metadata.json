@@ -1,0 +1,10 @@
+{
+  "dataSource": "legacy",
+  "version": "20260930231044",
+  "schemaVersion": 1,
+  "createdAt": "2026-09-30T23:10:44.5955246\u002B09:00",
+  "fileSize": 7254016,
+  "sha256": "893ec3bfdd2f62b4209e95b089c15443f69dfe1184b0d6049177d523ae826d5d",
+  "downloadUrl": "https://raw.githubusercontent.com/hhdongle/Repository/main/Daegu/daegu_bus_cache.sqlite",
+  "changeSummary": "\uC804\uCCB4 \uAE30\uC900 DB: \uB178\uC120 520\uAC1C, \uC815\uB958\uC18C 5,915\uAC1C, \uACBD\uC720 \uC815\uB958\uC18C 42,050\uAC1C"
+}

@@ -1,0 +1,10 @@
+{
+  "dataSource": "pohang-city-route-csv-v2",
+  "version": "20260930231234",
+  "schemaVersion": 2,
+  "createdAt": "2026-09-30T23:12:34.3069212\u002B09:00",
+  "fileSize": 3923968,
+  "sha256": "b6087a1458ceaddf46e24185a59fb89e9528b790632b6e1a796c8fe1584da76e",
+  "downloadUrl": "https://raw.githubusercontent.com/hhdongle/Repository/main/Pohang/pohang_bus_cache.sqlite",
+  "changeSummary": "\uC804\uCCB4 \uAE30\uC900 DB: \uB178\uC120 330\uAC1C, \uC815\uB958\uC18C 10,005\uAC1C, \uACBD\uC720 \uC815\uB958\uC18C 10,005\uAC1C"
+}
